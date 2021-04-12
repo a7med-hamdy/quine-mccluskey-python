@@ -1,2 +1,3 @@
 # quine-mccluskey-python
-college project to make a program that preforms minimization using quine mccluskey method
+college digital design project to make a program that preforms minimization using quine mccluskey method implemented in teams of five.
+
